@@ -1,0 +1,10 @@
+C:\Users\section1\source\repos\ornek22\ornek22\bin\Debug\ornek22.exe.config
+C:\Users\section1\source\repos\ornek22\ornek22\bin\Debug\ornek22.exe
+C:\Users\section1\source\repos\ornek22\ornek22\bin\Debug\ornek22.pdb
+C:\Users\section1\source\repos\ornek22\ornek22\bin\Debug\ClassLib.dll
+C:\Users\section1\source\repos\ornek22\ornek22\bin\Debug\ClassLib.pdb
+C:\Users\section1\source\repos\ornek22\ornek22\obj\Debug\ornek22.csprojAssemblyReference.cache
+C:\Users\section1\source\repos\ornek22\ornek22\obj\Debug\ornek22.csproj.CoreCompileInputs.cache
+C:\Users\section1\source\repos\ornek22\ornek22\obj\Debug\ornek22.csproj.CopyComplete
+C:\Users\section1\source\repos\ornek22\ornek22\obj\Debug\ornek22.exe
+C:\Users\section1\source\repos\ornek22\ornek22\obj\Debug\ornek22.pdb

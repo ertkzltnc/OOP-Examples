@@ -1,0 +1,13 @@
+C:\Users\section1\source\repos\ornek22\Migros\bin\Debug\Migros.exe.config
+C:\Users\section1\source\repos\ornek22\Migros\bin\Debug\Migros.exe
+C:\Users\section1\source\repos\ornek22\Migros\bin\Debug\Migros.pdb
+C:\Users\section1\source\repos\ornek22\Migros\bin\Debug\ClassLib.dll
+C:\Users\section1\source\repos\ornek22\Migros\bin\Debug\ClassLib.pdb
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.csprojAssemblyReference.cache
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.frmUrunEkle.resources
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.Properties.Resources.resources
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.csproj.GenerateResource.cache
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.csproj.CoreCompileInputs.cache
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.csproj.CopyComplete
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.exe
+C:\Users\section1\source\repos\ornek22\Migros\obj\Debug\Migros.pdb

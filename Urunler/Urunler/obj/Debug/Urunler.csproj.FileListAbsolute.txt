@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\bin\Debug\Urunler.exe.config
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\bin\Debug\Urunler.exe
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\bin\Debug\Urunler.pdb
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\obj\Debug\Urunler.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\obj\Debug\Urunler.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\obj\Debug\Urunler.exe
+C:\Users\section1\Desktop\Wissen\WissenOOP\Urunler\Urunler\obj\Debug\Urunler.pdb

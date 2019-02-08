@@ -1,0 +1,10 @@
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\bin\Debug\InterFace.exe.config
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\bin\Debug\InterFace.exe
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\bin\Debug\InterFace.pdb
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.csprojAssemblyReference.cache
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.Properties.Resources.resources
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.csproj.GenerateResource.cache
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.csproj.CoreCompileInputs.cache
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.exe
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.pdb
+D:\wissen\Wissen\WissenOOP\InterFace\InterFace\obj\Debug\InterFace.Form1.resources

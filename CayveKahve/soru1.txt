@@ -1,0 +1,6 @@
+icecek class =  miktar , doldur() 
+  > kahve = enum kahve( kahve çeþitleri), hazýrla( adet alcak ve ekrana adet cýktýsý verecek)
+  > cay = sekerAdet, hazýra(adet alcak ve  seker sayýsý ile cay sayýsý verecek )
+
+
+ hazýrla metod aþýrý yükleme ile abstrack olarak hazýrlanacak 

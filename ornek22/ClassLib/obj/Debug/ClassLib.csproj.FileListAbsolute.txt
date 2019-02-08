@@ -1,0 +1,6 @@
+C:\Users\section1\source\repos\ornek22\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\section1\source\repos\ornek22\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\section1\source\repos\ornek22\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\section1\source\repos\ornek22\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\section1\source\repos\ornek22\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\section1\source\repos\ornek22\ClassLib\obj\Debug\ClassLib.pdb
